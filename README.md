@@ -91,20 +91,26 @@ class AdnanNahid extends FlutterDeveloper {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nahidhasanniloy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidhasanniloy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahidhasanniloy&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahidhasanniloy&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nahidhasanniloy&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidhasanniloy&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahidhasanniloy&theme=tokyo-night&hide_border=true)](https://github.com/nahidhasanniloy)
+<img src="https://streak-stats.demolab.com/?user=nahidhasanniloy&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahidhasanniloy&theme=tokyo-night&hide_border=true&area=true)](https://github.com/nahidhasanniloy)
 
 </div>
 
@@ -114,7 +120,7 @@ class AdnanNahid extends FlutterDeveloper {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nahidhasanniloy&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/nahidhasanniloy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nahidhasanniloy&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/nahidhasanniloy)
 
 </div>
 
