@@ -67,23 +67,7 @@ class AdnanNahid extends FlutterDeveloper {
   </tr>
 </table>
 ---
-⚡ Flutter Expertise Level
-```
-UI / Animations     ████████████████████  Expert
-State Management    ████████████████████  Expert  
-Firebase            ███████████████████░  Pro
-REST API / Dio      ██████████████████░░  Pro
-Clean Architecture  ████████████████░░░░  Advanced
-GetX / Bloc / Riverpod  ███████████████░░░░░  Advanced
-```
----
-🎯 2025 Goals
-[ ] 🚀 Publish 3 apps on Google Play Store
-[ ] 🌍 Contribute to Flutter open source projects
-[ ] 📚 Master Clean Architecture in Flutter
-[ ] 💼 Land international freelance clients
-[ ] 🎥 Grow YouTube channel to 10K subscribers
----
+
 📊 GitHub Activity
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=nahidhasanniloy&theme=tokyonight&hide_border=true&fire=FF6B35&ring=06B6D4&currStreakLabel=06B6D4" width="70%"/>
