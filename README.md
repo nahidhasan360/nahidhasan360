@@ -87,24 +87,34 @@ class AdnanNahid extends FlutterDeveloper {
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Flutter Expertise Level
+
+```
+UI / Animations     ████████████████████  Expert
+State Management    ████████████████████  Expert  
+Firebase            ███████████████████░  Pro
+REST API / Dio      ██████████████████░░  Pro
+Clean Architecture  ████████████████░░░░  Advanced
+GetX / Bloc / Riverpod  ███████████████░░░░░  Advanced
+```
+
+---
+
+## 🎯 2025 Goals
+
+- [ ] 🚀 Publish **3 apps** on Google Play Store
+- [ ] 🌍 Contribute to **Flutter open source** projects
+- [ ] 📚 Master **Clean Architecture** in Flutter
+- [ ] 💼 Land **international freelance** clients
+- [ ] 🎥 Grow **YouTube channel** to 10K subscribers
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahidhasanniloy&theme=tokyonight"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahidhasanniloy&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidhasanniloy&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=nahidhasanniloy&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img src="https://streak-stats.demolab.com/?user=nahidhasanniloy&theme=tokyonight&hide_border=true&fire=FF6B35&ring=06B6D4&currStreakLabel=06B6D4" width="70%"/>
 
 </div>
 
@@ -123,6 +133,60 @@ class AdnanNahid extends FlutterDeveloper {
 [![trophy](https://github-profile-trophy.vercel.app/?username=nahidhasanniloy&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/nahidhasanniloy)
 
 </div>
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+## 🐍 My Contributions Snake
+
+<div align="center">
+
+![snake gif](https://github.com/nahidhasanniloy/nahidhasanniloy/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<details>
+<summary>⚙️ <b>Click here to enable Snake Animation</b></summary>
+<br/>
+
+Create this file in your profile repo: `.github/workflows/snake.yml`
+
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: nahidhasanniloy
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then go to **Actions tab → Run workflow** once to generate it!
+
+</details>
 
 ---
 
